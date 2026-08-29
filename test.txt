@@ -1,2 +1,5 @@
 dang minh dat
 sieu dep trai
+
+
+dat khong dep trai nhu truoc nua roi
